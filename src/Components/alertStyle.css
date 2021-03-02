@@ -1,0 +1,9 @@
+.alert{
+    width: 60%;
+    background-color: aliceblue;
+    float: right;
+}
+.alert-title{
+    color:red;
+    font-size:1.5rem;
+}
